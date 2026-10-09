@@ -7,3 +7,5 @@ Il installe Project Hunt, vérifie les mises à jour et conserve vos réglages. 
 Les sources de développement restent dans un dépôt privé. Ce dépôt contient uniquement les téléchargements du jeu.
 
 Hunt Launcher 1.1.1 se met aussi à jour lui-même automatiquement. Les versions 1.0.x doivent être remplacées une dernière fois. Le jeu installé et ses réglages sont conservés.
+
+Hunt Launcher 1.1.1 se met aussi à jour lui-même automatiquement. Les versions 1.0.x doivent être remplacées une dernière fois. Le jeu installé et ses réglages sont conservés.
